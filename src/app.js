@@ -166,6 +166,15 @@ mongoClient.connect(url, (error, res) =>{
     ////////////////////////////////////////////////////////////////////////////////////
 
     // console.log("===========================================")
+    // console.log("Users : delete one user age 40")
+
+    // db.collection('users').deleteOne({age:40})
+    // .then((data1)=>{console.log(data1.deletedCount)})
+    // .catch((error)=> {console.log(error)})
+
+    ////////////////////////////////////////////////////////////////////////////////////
+
+    // console.log("===========================================")
     // console.log("Users : all users age 41 delete")
 
     // db.collection('users').deleteMany({age:41})
