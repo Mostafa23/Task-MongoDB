@@ -4,8 +4,8 @@
 2. insertMany
 3. find 
 4. find limit
-5. updateOne         $set $inc
-6. updateone limit   $set $inc
-7. updateMany        $set $inc
+5. updateOne
+6. updateone limit
+7. updateMany
 8. deleteOne
 9. deleteMany
