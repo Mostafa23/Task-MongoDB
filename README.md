@@ -5,7 +5,7 @@
 3. find 
 4. find limit
 5. updateOne
-6. updateone limit
+6. updateOne limit
 7. updateMany
 8. deleteOne
 9. deleteMany
