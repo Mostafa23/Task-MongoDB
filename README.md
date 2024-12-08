@@ -1,10 +1,10 @@
 # Task MongoDB
 
-## insertOne
-## insertMany
-## find 
-## find limit
-## updateOne   $inc $set
-## updateMany  $inc #set
-## deleteOne
-## deleteMany
+1. insertOne
+2. insertMany
+3. find 
+4. find limit
+5. updateOne   $inc $set
+6. updateMany  $inc #set
+7. deleteOne
+8. deleteMany
